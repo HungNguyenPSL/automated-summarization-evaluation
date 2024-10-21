@@ -4,7 +4,7 @@ This repository contains the implementation of **Automated Summarization Evaluat
 
 ## Overview
 
-This project is part of the final project for the Large Languages Models course, which is a collaboration between the Master MASH program ([Mathematics, Deep Learning, and Humanities](https://dauphine.psl.eu/en/training/masters-degrees/mathematics-and-applied-mathematics/masters-year-2-mathematics-deep-learning-and-humanities/program)) and the Master IASD program ([Artificial Intelligence Systems and Data](https://dauphine.psl.eu/en/training/masters-degrees/computer-science/m2-artificial-intelligence-systems-data)) at PSL University.
+This project is part of the final project for the Large Languages Models course, which is a collaboration between the Master MASH program ([Mathematics, Machine Learning, Sciences, and Humanities](https://dauphine.psl.eu/en/training/masters-degrees/mathematics-and-applied-mathematics/masters-year-2-mathematics-deep-learning-and-humanities/program)) and the Master IASD program ([Artificial Intelligence Systems and Data](https://dauphine.psl.eu/en/training/masters-degrees/computer-science/m2-artificial-intelligence-systems-data)) at PSL University.
 
 ### Target
 
@@ -23,17 +23,13 @@ The primary goal of this project is to investigate the BLANC metric to automate 
 1. **Reimplementation of the BLANC Metric**: This project includes a reimplementation of the BLANC metric for evaluating summary quality.
 2. **Incorporation of Cosine Similarity**: To enhance the flexibility and reasonableness of the BLANC metric, cosine similarity is incorporated, allowing for the evaluation of semantically similar words that are not identical.
 
-## Installation
-
-Instructions on how to set up the environment and install dependencies will go here.
-
 ## Usage
 
 Provide your Hugging Face token and run the file on Google Colab.
 
 ## Contributors
 
-- [@HungNguyen](https://github.com/HungNguyenPSL) - Your Name
+- [@HungNguyen](https://github.com/HungNguyenPSL) 
 
 ## License
 
